@@ -66,6 +66,7 @@ https://labuladong.gitbook.io/algo/
             - 归并排序
             - 基数排序
             - 内部排序
+            - 堆排序
         - 插入算法
             - 折半插入算法
             - 二路插入
