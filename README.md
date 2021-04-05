@@ -50,7 +50,7 @@ https://labuladong.gitbook.io/algo/
     - [那些算法]()
         - 查找算法
             - 顺序查找
-            - 二分查找
+            - [二分查找](https://github.com/Zzl615/algorithm_notes/blob/main/go/search/binary.go)
             - 分块查找
             - 静态树表
             - 二叉排序树
@@ -61,7 +61,7 @@ https://labuladong.gitbook.io/algo/
         - 排序算法
             - 希尔排序
             - 冒泡排序
-            - 快速排序
+            - [快速排序](https://github.com/Zzl615/algorithm_notes/blob/main/go/sort/quick.go)
             - 简单排序
             - 归并排序
             - 基数排序

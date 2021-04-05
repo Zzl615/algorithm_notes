@@ -10,7 +10,7 @@ func BinSearch(nums []int, obj int) int {
 	// 循环条件：需要等于，两边收缩到只剩两数[16,17]，只能检查其中一个
 	for start <= end {
 		mid = (start + end) / 2
-		// fmt.Println(start, end)
+		fmt.Println(start, end)
 		if nums[mid] == obj {
 			return mid
 		} else if nums[mid] < obj {
