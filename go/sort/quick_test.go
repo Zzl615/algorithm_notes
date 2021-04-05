@@ -2,8 +2,9 @@ package sort
 
 import "testing"
 
+
 func TestQuickSort(t *testing.T) {
-	list := []int{2, 44, 4, 8, 33, 1, 22, -11, 6, 34, 55, 54, 9}
+	list := []int{5, 9, 1, 9, 5, 3, 7, 6, 1}
 	QuickSort(list, 0, len(list)-1)
 	t.Log(list)
 }
