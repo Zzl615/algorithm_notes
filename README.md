@@ -59,9 +59,11 @@ https://labuladong.gitbook.io/algo/
             - B+树
             - 哈希表
         - 排序算法
-            - 希尔排序
-            - 冒泡排序
+            - [冒泡排序](https://github.com/Zzl615/algorithm_notes/blob/main/go/sort/bubble.go)
             - [快速排序](https://github.com/Zzl615/algorithm_notes/blob/main/go/sort/quick.go)
+            - [选择排序](https://github.com/Zzl615/algorithm_notes/blob/main/go/sort/select.go)
+            - [插入排序](https://github.com/Zzl615/algorithm_notes/blob/main/go/sort/insert.go)
+            - 希尔排序
             - 简单排序
             - 归并排序
             - 基数排序
